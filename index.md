@@ -3,7 +3,7 @@ This will serve as a brief description of your projects. Limit this to three sen
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Your Name| Current Highschool | Mechanical Engineering | Senior 
+|Nick| School Without Walls| Electrical Enginneer | Freshman
 
 ![Relevant Name](https://live.staticflickr.com/65535/52852175615_c29c92411d_c.jpg)
 
