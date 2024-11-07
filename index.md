@@ -5,7 +5,7 @@ This will serve as a brief description of your projects. Limit this to three sen
 |:--:|:--:|:--:|:--:|
 |Nick| School Without Walls| Electrical Enginneer | Freshman
 
-![Relevant Name](https://live.staticflickr.com/65535/52852175615_c29c92411d_c.jpg)
+![Relevant Name](https://live.staticflickr.com/65535/54124202659_095e68144d_n.jpg)
 
 # Final Milestone
 
