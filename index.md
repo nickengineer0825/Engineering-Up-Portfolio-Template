@@ -9,7 +9,7 @@ This will serve as a brief description of your projects. Limit this to three sen
 
 # Final Milestone
 
-My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I've stripped away a lot of the parts that were originally on the robot to create room for my kicking arm. I changed the code a lot to accommodate the second H-Bridge which I go more in-depth about in my video below. I've loved this journey so far and I can't wait to see where this takes me in my future career.
+My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I had to add another bread board for a seven segment display. I learned with the help of my teachers how to code the pins so power is coming out of them and how to work with a type of funciton called digitalwrite.
 
 [![Final Arduino Project]
 
