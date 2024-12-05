@@ -19,8 +19,8 @@ My final milestone, I've come a long way from where I started just a couple of m
 
 
 # First Milestone 
-  https://live.staticflickr.com/65535/54184726282_c0731d9da7_n.jpg
+[![first mileston]  https://live.staticflickr.com/65535/54184726282_c0731d9da7_n.jpg
 
 My first milestone was being able to make a light ont he arduino blink and then building the 3 in 1 smart car learning kit that is compatible with the arduino motherboard. It was challenging building the car because even though there were directions i still made various mistakes but,I didn't give up and i finished building the arduino. After I finsihed building the arduino i had to wire the robot which was a little bit of a pain. There was a website that I had to follow which was a diagram of the wiring.The wiring is different for all of the projects and the project I chose the remote control module.
 
-[![First Arduino Car Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1679433959/video_to_markdown/images/youtube--gYL3vr7hr5U-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=gYL3vr7hr5U&t=1s "First Arduino Car Milestone")
+[![First Arduino Car Milestone]
