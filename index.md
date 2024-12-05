@@ -1,4 +1,5 @@
-# Nick's Arduino Robot
+# Blaze the Truck 
+
 Hello my name is Nick and I built a 3 in 1 sunfounder smart car learning kit. In this program Ilearned about coding and how different functions work.
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
