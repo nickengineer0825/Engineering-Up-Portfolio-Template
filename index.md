@@ -1,6 +1,5 @@
 # Nick's Arduino Robot
-Hello my name is Nick and i built a arduino robot. Engineering up is located in Rochester NY 17 Fitzhugh s
-
+Hello my name is Nick and I built a 3 in 1 sunfounder smart car learning kit. In this program Ilearned about coding and how different functions work.
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 |Nick| School Without Walls| Electrical Enginneer | Freshman
