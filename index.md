@@ -1,5 +1,5 @@
 # Nick's Arduino Robot
-Hello my name is Nick and i built a arduino robot. ENgineering up is located in Rochester NY 17 Fitzhugh s
+Hello my name is Nick and i built a arduino robot. Engineering up is located in Rochester NY 17 Fitzhugh s
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
