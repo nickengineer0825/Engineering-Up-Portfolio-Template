@@ -5,7 +5,7 @@ Hello my name is Nick and I built a 3 in 1 sunfounder smart car learning kit. In
 
 ![Relevant Name](https://live.staticflickr.com/65535/54124202659_095e68144d_n.jpg)
 
- # Final Milestone
+ # Final Milestone 
 
 My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I had to add another bread board for a seven segment display. I learned with the help of my teachers how to code the pins so power is coming out of them and how to work with a type of funciton called digitalwrite. I also added a passive buzzer that beeps for one second everytime I push the button to back up. I had to code the buzzer to work on pins and connect it to the move backward part of a function called void loop. The final thing I did to my robot was coding it so the seven segment display would display whatever number I pushed on my remote. It was challenging to figure out how to code the robot correctly to follow the remote control code and the seven segment display code. Engineering Up was a very fun expierience and I would love to come back next year. 
  
