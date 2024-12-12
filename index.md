@@ -1,7 +1,7 @@
 # Gravedigger
 
 Hello my name is Nick and I built a 3 in 1 sunfounder smart car learning kit. In this program I learned about coding and how different functions work. It was a very fun and a difficult challenge to understand what the code for the arduino meant but it was also fun makin my own code. I am very glad that I came to this program because it was very worth it.
-|Nick| School Without Walls| Electrical Enginneer | Freshman
+|Nick| School Without Walls| Electrical Enginneer | Freshman 
 
 ![Relevant Name](https://live.staticflickr.com/65535/54124202659_095e68144d_n.jpg)
 
